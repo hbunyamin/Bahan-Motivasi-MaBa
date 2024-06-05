@@ -1,0 +1,8 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{Motivasi AI}{3}{0}{1}
+\beamer@sectionintoc {2}{Machine Learning}{8}{0}{2}
+\beamer@sectionintoc {3}{Machine Learning vs. Data Science}{49}{0}{3}
+\beamer@sectionintoc {4}{Deep Learning}{57}{0}{4}
+\beamer@sectionintoc {5}{What Machine Learning Can and Cannot Do}{72}{0}{5}
+\beamer@sectionintoc {6}{Jalur Peminatan AI: Becoming AI Specialist}{107}{0}{6}
+\beamer@sectionintoc {7}{Future of AI: Generative AI}{138}{0}{7}
